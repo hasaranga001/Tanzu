@@ -4,7 +4,7 @@
 
 ## Docker installation.
 
-#echo "Step 01 : Intalling Docker"
+echo "Step 01 : Intalling Docker"
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
